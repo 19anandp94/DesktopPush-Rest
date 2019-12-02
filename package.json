@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/19anandp94/DesktopPush-Rest/issues"
   },
-  "homepage": "https://github.com/19anandp94/DesktopPush-Rest#readme"
+  "homepage": "https://github.com/19anandp94/DesktopPush-Rest#readme",
+  "dependencies": {
+    "mongoose": "^5.7.13",
+    "q": "^1.5.1"
+  }
 }
